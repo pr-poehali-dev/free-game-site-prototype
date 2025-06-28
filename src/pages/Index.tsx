@@ -1,6 +1,7 @@
 import Hero from "@/components/Hero";
 import FeaturedGames from "@/components/FeaturedGames";
 import GameCategories from "@/components/GameCategories";
+import CasinoSection from "@/components/CasinoSection";
 import LatestGames from "@/components/LatestGames";
 
 const Index = () => {
@@ -9,6 +10,7 @@ const Index = () => {
       <Hero />
       <FeaturedGames />
       <GameCategories />
+      <CasinoSection />
       <LatestGames />
     </div>
   );

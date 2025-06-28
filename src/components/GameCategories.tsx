@@ -10,6 +10,13 @@ const GameCategories = () => {
       description: "Играй прямо в браузере",
     },
     {
+      name: "Казино",
+      icon: "Diamond",
+      count: "50+",
+      color: "neon-pink",
+      description: "Бесплатные игры казино",
+    },
+    {
       name: "Скачиваемые",
       icon: "Download",
       count: "300+",
